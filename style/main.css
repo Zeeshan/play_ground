@@ -1,0 +1,36 @@
+body {
+  background: grey;
+  font-family: arial;
+}
+header h1{
+  color: white;
+  display: inline;
+  margin: 0;
+}
+
+nav ul{
+  display: inline;
+  padding: 0px;
+}
+nav ul li a {
+  color: white;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 5px;
+  background-color: black;
+
+}
+.col{
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+  float:left;
+  width: 31%;
+  margin:1%;
+  height: 100%
+}
+footer{
+  clear: both;
+}
